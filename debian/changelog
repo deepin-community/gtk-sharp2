@@ -1,8 +1,9 @@
-gtk-sharp2 (2.12.40-3-deepin1) unstable; urgency=medium
+gtk-sharp2 (2.12.40-3.1) unstable; urgency=low
 
-  * Rebuild
+  * Non-maintainer upload.
+  * dh compat 5 -> 7. (Closes: #965576)
 
- -- Deepin Packages Builder <packages@deepin.org>  Thu, 24 Nov 2022 07:23:42 +0800
+ -- Adrian Bunk <bunk@debian.org>  Sat, 15 Oct 2022 19:01:59 +0300
 
 gtk-sharp2 (2.12.40-3) unstable; urgency=medium
 
